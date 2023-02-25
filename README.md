@@ -1,3 +1,3 @@
 # Switch and date
 
-Exerc´cicio com switch e date
+Exercício com switch e date
